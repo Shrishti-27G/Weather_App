@@ -1,4 +1,4 @@
-# 🌤️ Weather App [ https://shrishti-27g.github.io/Weather_App/ ]
+# 🌤️ Weather App [ [Live Demo](https://shrishti-27g.github.io/Weather_App/) ]
 
 A simple weather application built using **HTML**, **CSS**, and **JavaScript**.  
 It uses the **OpenWeatherMap API** to display real-time weather information based on either **geolocation** or **city search**.
@@ -16,7 +16,3 @@ It uses the **OpenWeatherMap API** to display real-time weather information base
 - CSS
 - JavaScript (Fetch API)
 - OpenWeatherMap API
-
-
-
-
